@@ -1,3 +1,6 @@
+# Live Link
+https://task-tracker-delta-snowy.vercel.app/
+
 # Installation 🛠️
 
 1. Clone the project- git clone git@github.com:A-Infogeek/task-tracker-web-app.git
@@ -15,5 +18,4 @@ npm start
 
 5. Open the app in your browser
 
-# Live Link
-https://task-tracker-delta-snowy.vercel.app/
+
